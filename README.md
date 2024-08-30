@@ -53,6 +53,14 @@ Dataset Overview: The dataset contains information about various car attributes 
 4. Analysis by Categorical Variables
 5. Hypothesis Testing
 
+## 8. Predictive Analytics
+Problem Statement: Build a predictive model to forecast sales for the next quarter using
+historical sales data. Explain the steps taken and the rationale behind your model choice.
+•	Data Pre-processing: Ensured correct date parsing and handled missing values.
+•	Feature Engineering: Created temporal features and lag variables to aid forecasting.
+•	Model Building: Employed a Random Forest model for prediction and evaluated its performance.
+•	Forecasting: Generated sales forecasts for the next quarter based on historical data.
+
 # Part 4: Scenario-Based Questions
 ## 9. Real-World Problem Solving
 Question: Imagine you are given a large dataset with customer transactions. How would you
